@@ -1,0 +1,6 @@
+{
+  "name": "Grand Line Archives",
+  "description": "The interactive One Piece encyclopedia, world map, timeline, character database, spoiler-protected knowledge graph, and mystery archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
